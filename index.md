@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 啊~ 沧海一声笑 ~ 啊 滔滔两岸潮~~~
 
 You can use the [editor on GitHub](https://github.com/Jade-like-stone/myH5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
